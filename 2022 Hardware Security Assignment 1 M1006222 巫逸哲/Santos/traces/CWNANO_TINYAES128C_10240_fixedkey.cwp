@@ -1,0 +1,12 @@
+[Trace Management]
+tracefile0 = CWNANO_TINYAES128C_10240_fixedkey_data\traces\config_2022.11.06-15.30.35_0.cfg
+enabled0 = True
+tracefile1 = CWNANO_TINYAES128C_10240_fixedkey_data\traces\config_2022.11.06-15.30.36_1.cfg
+enabled1 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Project File Version = 1.00
+Project Author = Unknown
+Program Name = ChipWhisperer
+Program Version = ""
